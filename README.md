@@ -3,7 +3,7 @@
 A clean and interactive **Todo List Application** built with **HTML, CSS, and JavaScript**.  
 Easily add, manage, and track your daily tasks — all in a simple and minimal interface.
 
-🌐 Live Demo: [View here](https://yoyoooz.github.io/Drag-Drop/)
+🌐 Live Demo: [View here](https://yoyoooz.github.io/ToDo-App/)
 
 ---
 
